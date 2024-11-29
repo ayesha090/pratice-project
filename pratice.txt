@@ -2,4 +2,4 @@ i hate it project .
 i don't want to learn it.
 merging same line.
 we are creating conflict idk why.
-
+we are updating with github.
